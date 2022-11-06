@@ -4,13 +4,25 @@
   
   
   <entry>
-    <title>Test</title>
-    <link href="/2022/11/03/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <url>/2022/11/03/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <title>Test123</title>
+    <link href="/2022/11/07/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <url>/2022/11/07/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<img src="/2022/11/03/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" class=""> ]]></content>
+    <content type="html"><![CDATA[<img src="/2022/11/07/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test1.png" class=""><p>I have a dream<br>I have a dream<br>I have a dream<br>I have a dream<br>I have a dream<br>I have a dream<br>I have a dream<br>I have a dream<br>I have a dream<br>I have a dream<br>I have a dream</p>]]></content>
     
     
+    <categories>
+      
+      <category>2111</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>aaa</tag>
+      
+    </tags>
     
   </entry>
   
